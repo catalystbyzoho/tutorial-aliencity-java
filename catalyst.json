@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "targets": [
+      "AlienCityAIO"
+    ],
+    "ignore": [
+      ".output",
+      ".project",
+      ".classpath"
+    ],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

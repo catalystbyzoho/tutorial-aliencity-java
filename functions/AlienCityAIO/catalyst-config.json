@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "AlienCityAIO",
+		"stack": "java8",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "AlienCityAIO"
+	}
+}
